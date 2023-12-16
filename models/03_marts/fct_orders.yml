@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: fct_orders
+    description: "Essa e a tabela fato de vendas da Nortwind. "
+    columns:
+      - name: order_id
+        description: "Essa é a coluna de Identificação da Venda"
